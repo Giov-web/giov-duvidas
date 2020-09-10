@@ -1,0 +1,13 @@
+html, body {
+    margin: 10;
+}
+#imagem_fundo {
+    background: url(img/trabalho3.jpg);
+    height: 800px;
+    text-align: center;
+}
+#título {
+    color: black;
+    padding-top: 20%;
+    
+}
